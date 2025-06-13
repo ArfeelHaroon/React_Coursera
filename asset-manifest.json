@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Coursera/static/css/main.a8f50d84.css",
+    "main.js": "/React_Coursera/static/js/main.1fbae10e.js",
+    "static/js/453.83bdee10.chunk.js": "/React_Coursera/static/js/453.83bdee10.chunk.js",
+    "index.html": "/React_Coursera/index.html",
+    "main.a8f50d84.css.map": "/React_Coursera/static/css/main.a8f50d84.css.map",
+    "main.1fbae10e.js.map": "/React_Coursera/static/js/main.1fbae10e.js.map",
+    "453.83bdee10.chunk.js.map": "/React_Coursera/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f50d84.css",
+    "static/js/main.1fbae10e.js"
+  ]
+}
